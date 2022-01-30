@@ -1,0 +1,13 @@
+
+.cats{
+    border: 2px solid red;
+    background-color: grey;
+    height: 5rem;
+    width: 30rem;
+}
+.klassCat{
+    border: 2px solid rgb(8, 8, 8);
+    height: 5rem;
+    width: 30rem;
+    background-color: aqua;
+}
